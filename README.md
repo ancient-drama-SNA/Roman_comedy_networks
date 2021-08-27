@@ -11,4 +11,4 @@
   vue-d3-network RC</a> by Salma Kamni (<a href="https://codepen.io/salmakamni">@salmakamni</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
